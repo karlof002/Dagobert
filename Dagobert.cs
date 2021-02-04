@@ -1,7 +1,7 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        07                                     
  * Programmname:    Dagobert                                  
- * Autor:           Michael Bucek                            
+ * Autor:           karlof002                            
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Der Bankier Dagobert weiß, dass sein Vermögen zwischen 1 bis 2 Millionen Dukaten liegt. 
